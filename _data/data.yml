@@ -119,7 +119,7 @@ projects:
     assignments:
       - title: Entrenamiento de modelos de Aprendizaje Automático para generación de mapas de Uso y Cobertura del Suelo (LULC) utilizando datos de satélite.
         link: https://github.com/boresmol/TFG
-        tagline: Este repositorio contiene el código y los recursos relacionados con mi trabajo de fin de grado titulado "Entrenamiento de Modelos de Aprendizaje Automático para Generación de Mapas de Uso y Cobertura del Suelo (LULC) utilizando Datos de Satélite".
+        tagline: Este repositorio contiene el código y los recursos relacionados con mi trabajo de fin de grado titulado Entrenamiento de Modelos de Aprendizaje Automático para Generación de Mapas de Uso y Cobertura del Suelo (LULC) utilizando Datos de Satélite.
 
       - title: Detección y Clasificación de Estereotipos Raciales en Español
         link: https://github.com/boresmol/stereotype-detection-proyecto-final
