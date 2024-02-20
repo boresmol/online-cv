@@ -10,13 +10,13 @@ sidebar:
     # Profile information
     name: Borja Esteve
     tagline: Data Scientist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: fc.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: algirosfs6@gmail.com
     timezone: Central European Time
     website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/borja-esteve-data-scientist/
+    linkedin: borja-esteve-data-scientist
     github: boresmol
 
     languages:
@@ -118,21 +118,9 @@ projects:
         link: https://github.com/boresmol/TFG
         tagline: Este repositorio contiene el código y los recursos relacionados con mi trabajo de fin de grado titulado "Entrenamiento de Modelos de Aprendizaje Automático para Generación de Mapas de Uso y Cobertura del Suelo (LULC) utilizando Datos de Satélite".
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: DETEction and classification of racial STereotypes in Spanish (DETEST)
+        link: https://github.com/boresmol/stereotype-detection-proyecto-final
+        tagline: Participación en el proyecto DETEST del concurso de NLP IberLef donde se desarrolló una solución basada en Machine Learning para la clasificación de estereotipos raciales en español. 
 
 oss:
     title: OSS Contributions
