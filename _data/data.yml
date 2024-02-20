@@ -10,13 +10,13 @@ sidebar:
     # Profile information
     name: Borja Esteve
     tagline: Data Scientist
-    avatar: fc.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: algirosfs6@gmail.com
     timezone: Central European Time
     website: blog.webjeda.com #do not add http://
-    linkedin: borja-esteve-data-scientist
+    linkedin: https://www.linkedin.com/in/borja-esteve-data-scientist/
     github: boresmol
 
     languages:
@@ -113,17 +113,27 @@ certifications:
 projects:
     title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Entrenamiento de modelos de Aprendizaje Automático para generación de mapas de Uso y Cobertura del Suelo (LULC) utilizando datos de satélite.
         link: https://github.com/boresmol/TFG
-        tagline: Este repositorio contiene el código y los recursos relacionados con mi trabajo de fin de grado titulado Entrenamiento de Modelos de Aprendizaje Automático para Generación de Mapas de Uso y Cobertura del Suelo (LULC) utilizando Datos de Satélite.
+        tagline: Este repositorio contiene el código y los recursos relacionados con mi trabajo de fin de grado titulado "Entrenamiento de Modelos de Aprendizaje Automático para Generación de Mapas de Uso y Cobertura del Suelo (LULC) utilizando Datos de Satélite".
 
-      - title: Detección y Clasificación de Estereotipos Raciales en Español
-        link: https://github.com/boresmol/stereotype-detection-proyecto-final
-        tagline: Participación en el concurso de NLP IberLef, donde desarrollé un sistema para la detección de estereotipos raciales en blogs en español. La solución fue construida de principio a fin: desde la representación del texto hasta los modelos de clasificación.
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 oss:
     title: OSS Contributions
     intro: >
@@ -169,20 +179,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 90%
-
-      - name: Machine Learning
+      - name: Python & Django
         level: 98%
 
-      - name: Deep Learning
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Keras
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
         level: 85%
 
-      - name: SQL
+      - name: Sketch & Photoshop
         level: 60%
-        
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
