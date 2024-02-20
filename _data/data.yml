@@ -8,179 +8,115 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Borja Esteve
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: algirosfs6@gmail.com
+    timezone: Central European Time
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: https://www.linkedin.com/in/borja-esteve-data-scientist/
+    github: boresmol
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: B2
 
-        - idiom: French
-          level: Professional
+        - idiom: Español
+          level: Nativo
 
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - idiom: Valenciano
+          level: Nativo
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Soy un profesional apasionado por la ciencia de datos y el aprendizaje automático, con una sólida experiencia en el campo del marketing digital y la informática. 
+      Durante mis prácticas en Clinika Marketing Digital, participé en un proyecto integral de ciencia de datos, 
+      desde el análisis exploratorio y la limpieza de datos hasta la implementación de modelos de clasificación. 
+      Además, en el Instituto Tecnológico de Informática, desarrollé una solución innovadora utilizando Generative Adversarial Networks 
+      para generar imágenes sintéticas de piezas industriales. Actualmente, me encuentro trabajando a tiempo completo en Clinika Marketing Digital, 
+      participando en un proyecto de predicción de no asistencia a citas de clínicas dentales. Mis habilidades técnicas incluyen un dominio avanzado de Python y 
+      sus bibliotecas relacionadas con Machine Learning y Deep Learning, así como un sólido conocimiento teórico en estos campos. 
+      También poseo habilidades intermedias en SQL. Busco un cambio hacia un proyecto más innovador y desafiante, 
+      donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente bajo la guía de expertos en el área.
+      
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Máster en Inteligencia Artificial Avanzada y Aplicada
+        university: Universitat de València
+        time: 2023-2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Programa de maestría con un enfoque integral, que profundiza en Modelos de aprendizaje profundo, procesamiento del Lenguaje Natural, técnicas de Aprendizaje por Refuerzo, entornos en la nube para la implementación de IA y aplicaciones indutriales de la IA.
+          
+      - degree: Grado en Ciencia de Datos
+        university: Universitat Politècnica de València
+        time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Mi grado en ciencia de datos me equipó con habilidades clave en análisis exploratorio y limpieza de datos, modelado predictivo con algoritmos de aprendizaje automático, y comunicación efectiva de resultados a través de visualizaciones. 
 
 experiences:
-    title: Experiences
+    title: Experiencias
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Junior Data Scientist
+        time: 2023 - Actualidad
+        company: Clinika Marketing Digital
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Participación en un proyecto de predicción de no asistencia a citas en clínicas dentales. 
+      - role: Investigador en Inteligencia Artificial
+        time: 2023 - 2023
+        company: Instituto Tecnológico de Informática
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Desarrollo de un sistema basado en GANs (Generative Adversarial Networks) para la generación de imágenes sintéticas de piezas industriales, con el fin de entrenar un clasificador de defectos.
+      - role: Junior Data Scientist
+        time: 2022 - 2022
+        company: Clinika Marketing Digital
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Participación en un proyecto de segmentación y clasificación de clientes.
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: First Certificate of English
+          start: 2023
+          end: 2023
+          organization: Cambridge
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Obtención del certificado First Certificate of English (nivel B2) de Cambridge con una puntuación de 178.
+        - name: Deep Learning aplicado a imágenes y señales.
+          start: 2023
+          end: 2023
+          organization: Universitat Politècnica de València
+          details: |
+            Curso inminentemente práctico donde se introducen los conceptos de redes neuronales profundas, redes convolucionales, word embeddings, transfer learning, fine tuning...
+            El contenido del curso puede verse en el siguiente enlace: https://github.com/boresmol/curso_deep_learning_upv
+            
+        - name: ChatGPT Prompt Engineering for Developers.
+          start: 2024
+          end: 2024
+          organization: DeepLearning.AI
+          details: |
+            Curso introductorio al Prompt Engineering con ChatGPT. El contenido del curso puede verse en: https://github.com/boresmol/ChatGPT-Prompt-Engineering-for-Developers
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Introduction to LLMs with  Python.
+          start: 2024
+          end: 2024
+          organization: DataCamp
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Curso de introducción a los LLMs, donde se introduce la arquitectura de transformer, tanto de forma teórica como práctica. El contenido del curso puede verse en: https://github.com/boresmol/Introduction-to-LLMs-in-Python-Datacamp
+            
 
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Entrenamiento de modelos de Aprendizaje Automático para generación de mapas de Uso y Cobertura del Suelo (LULC) utilizando datos de satélite.
+        link: https://github.com/boresmol/TFG
+        tagline: Este repositorio contiene el código y los recursos relacionados con mi trabajo de fin de grado titulado "Entrenamiento de Modelos de Aprendizaje Automático para Generación de Mapas de Uso y Cobertura del Suelo (LULC) utilizando Datos de Satélite".
 
       - title: DevStudio
         link: "#"
