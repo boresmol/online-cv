@@ -122,9 +122,6 @@ projects:
         link: https://github.com/boresmol/stereotype-detection-proyecto-final
         tagline: Participación en el concurso de NLP IberLef, donde desarrollé un sistema para la detección de estereotipos raciales en blogs en español. La solución fue construida de principio a fin: desde la representación del texto hasta los modelos de clasificación.
 
-      - title: Introducción al Machine Learning con Python
-        tagline: Coautor de un libro de introducción al Machine Learning con Python. 
-
 
 skills:
     title: Skills &amp; Proficiency
