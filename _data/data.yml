@@ -62,12 +62,11 @@ education:
 experiences:
     title: Experiencias
     info:
-     - role: Junior Data Scientist
+      - role: Junior Data Scientist
         time: 2024 - Actualidad
         company: Decide4AI
         details: |
           Participación en diferentes proyectos como consultor de AI. 
-    
       - role: Junior Data Scientist
         time: 2023 - 2024
         company: Clinika Marketing Digital
