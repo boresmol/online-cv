@@ -10,12 +10,12 @@ sidebar:
     # Profile information
     name: Borja Esteve
     tagline: Data Scientist
-    avatar: fc.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: foto decide.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: algirosfs6@gmail.com
     timezone: Central European Time
-    website: blog.webjeda.com #do not add http://
+    website: boresmol.github.io/BorjaDataScientist.github.io/ #do not add http://
     linkedin: borja-esteve-data-scientist
     github: boresmol
 
@@ -34,15 +34,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Soy un profesional apasionado por la ciencia de datos y el aprendizaje automático, con una sólida experiencia en el campo del marketing digital y la informática. 
-      Durante mis prácticas en Clinika Marketing Digital, participé en un proyecto integral de ciencia de datos, 
-      desde el análisis exploratorio y la limpieza de datos hasta la implementación de modelos de clasificación. 
-      Además, en el Instituto Tecnológico de Informática, desarrollé una solución innovadora utilizando Generative Adversarial Networks 
-      para generar imágenes sintéticas de piezas industriales. Actualmente, me encuentro trabajando a tiempo completo en Clinika Marketing Digital, 
-      participando en un proyecto de predicción de no asistencia a citas de clínicas dentales. Mis habilidades técnicas incluyen un dominio avanzado de Python y 
-      sus bibliotecas relacionadas con Machine Learning y Deep Learning, así como un sólido conocimiento teórico en estos campos. 
-      También poseo habilidades intermedias en SQL. Busco un cambio hacia un proyecto más innovador y desafiante, 
-      donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente bajo la guía de expertos en el área.
+      Highly skilled and dedicated Data Scientist with over 2 years of experience in data analysis, machine learning, and artificial intelligence research. 
+      Proficient in deep learning, Python, and the development of innovative AI solutions. Successfully implemented generative AI solutions based on large language models (LLMs) for call classification and dynamic reporting. 
+      Contributed to an industrial inspection project, achieving a improvement in model accuracy by utilizing synthetic images generated through GANs. 
+      Possess strong analytical abilities, problem-solving skills, and a passion for leveraging data to drive impactful business decisions.
       
 education:
     title: Educación
@@ -66,22 +61,25 @@ experiences:
         time: 2024 - Actualidad
         company: Decide4AI
         details: |
-          Participación en diferentes proyectos como consultor de AI. 
+          Currently working at Iberia Airlines, undertaking the following responsibilities:
+            Implementing and optimizing large language models (LLMs) for a variety of business applications to enhance operational efficiency and decision-making processes.
+            Developing advanced text classification systems utilizing LLMs to automate the categorization of customer service communications, improving response accuracy and speed.
+            Creating a sophisticated dynamic reporting tool based on prompt engineering, enabling comprehensive data analysis and visualization through textual inputs, thereby facilitating more informed and agile business decisions.
       - role: Junior Data Scientist
         time: 2023 - 2024
         company: Clinika Marketing Digital
         details: |
-          Participación en un proyecto de predicción de no asistencia a citas en clínicas dentales. 
+          Development of a project aimed at predicting appointment no-shows in dental clinics, utilizing advanced data analysis and machine learning techniques to improve scheduling efficiency and patient management. 
       - role: Investigador en Inteligencia Artificial
         time: 2023 - 2023
         company: Instituto Tecnológico de Informática
         details: |
-          Desarrollo de un sistema basado en GANs (Generative Adversarial Networks) para la generación de imágenes sintéticas de piezas industriales, con el fin de entrenar un clasificador de defectos.
+          Development of Deep Learning architectures for generating synthetic images in an industrial inspection project, successfully creating a balanced and useful image dataset that improved the results of the defect classification algorithm for industrial parts.
       - role: Junior Data Scientist
         time: 2022 - 2022
         company: Clinika Marketing Digital
         details: |
-          Participación en un proyecto de segmentación y clasificación de clientes.
+          Development of a sophisticated customer segmentation and classification project aimed at delivering personalized advertising, leveraging advanced analytics to enhance targeting accuracy and maximize marketing effectiveness.
 
 certifications:
       title: Certificaciones
@@ -155,7 +153,9 @@ skills:
 
       - name: Generative AI
         level: 85%
-
+        
+      - name: SQL
+        level: 70%
 
 
 
