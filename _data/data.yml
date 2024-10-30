@@ -131,6 +131,10 @@ projects:
         link: 
         tagline: Coautor de un libro titulado 'Introducción a Machine Learning con Python' de la editorial RAMA.
 
+        - title: Ponente en PyConES 24
+        link: https://github.com/boresmol/pycon24_agents
+        tagline: Ponente en PyConES24 con la charla "Flujos de Agentes de IA en Python", sobre el uso de agentes de IA colaborativos en workflows autónomos. Expuse criterios clave para diseñar estos flujos (reflexión, planificación y colaboración) y presenté casos prácticos en desarrollo y optimización de proyectos en Python, orientado a un público general con conocimientos básicos del lenguaje.
+
 
 oss:
 
@@ -149,11 +153,10 @@ skills:
       - name: Machine Learning
         level: 85%
 
-      - name: Keras
-        level: 80%
+      - name: Generative AI
+        level: 85%
 
-      - name: SQL
-        level: 60%
+
 
 
 footer: >
